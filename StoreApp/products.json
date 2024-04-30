@@ -1,0 +1,30 @@
+[
+    {
+      "model": "myapp.products",
+      "pk": 1,
+      "fields": {
+        "name": "Water",
+        "price": "1.00",
+        "description": "Fiji water"
+      }
+    },
+    {
+      "model": "myapp.products",
+      "pk": 2,
+      "fields": {
+        "name": "Hotdog",
+        "price": "2.00",
+        "description": "Hotdog with ketchup and mustard"
+      }
+    },
+    {
+      "model": "myapp.products",
+      "pk": 3,
+      "fields": {
+        "name": "Burger",
+        "price": "3.00",
+        "description": "Cheeseburger with bacon"
+      }
+    }
+  ]
+  
